@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+traces/*
+!traces/.gitkeep
+!traces/20261007-124552_782759d6_turn01_ff251ba4.jsonl
+!traces/20261007-124657_782759d6_turn02_92484153.jsonl
+!traces/20261007-124817_782759d6_turn03_ffc8810f.jsonl
+workspace/output/*
